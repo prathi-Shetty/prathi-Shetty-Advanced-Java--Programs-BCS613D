@@ -4,3 +4,4 @@
 
 [3b 3)SubstringReversal]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/3b%203)SubStringReversal.png)
 
+[3b 4)PalindromeChecker]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/3b%204)PalindromeChecker.png)
