@@ -5,3 +5,5 @@
 [3c 8)NumericChecker outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/3c%208)Numerichecker.png)
 
 [3c 9)RandomStringGenerator outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/3c%209)RandomStringGenerator.png)
+
+[3c 10)WordCounter outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/3c%2010)wordCounter.png)
