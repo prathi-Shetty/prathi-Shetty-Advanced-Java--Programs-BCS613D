@@ -5,3 +5,5 @@
 [1c 3) IterateFromEnd outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c3-InsertAtEnd.png)
 
 [1c 4) DisplayWithPosition outputLink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c4-DisplayWithPosition.png)
+
+[1c 5)SwapElements outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c5-SwapElements.png)
