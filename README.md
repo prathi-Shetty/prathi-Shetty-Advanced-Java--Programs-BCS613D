@@ -297,3 +297,23 @@ mysql_setup -->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Pro
 coffeeinventoryMagaement.jsp-->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9a%20CoffeeInventoryManagement/9a%20CoffeeInventoryManagement.jsp
 mysql_setup file -->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9a%20CoffeeInventoryManagement/MYSQL_Setup
 outputlink -->[https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9%20a%20deletecoffee.png]
+
+9b.Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively.
+
+[folderlinks]-->
+coffeequerystratingwithd.jsp file -->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9b%20CoffeeQueryStartingWithD/9b%20CoffeQueryStartingWithd.jsp
+mysql_setup file -->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9b%20CoffeeQueryStartingWithD/mysql_setup
+[CoffeeQueryStartingwithD outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9b%20StartingwithD.png)
+
+9c.Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
+
+[folderlink]-->
+insertemployee.jsp-->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9c%20InsertEmployee/9c%20InsertEmployee.jsp
+mysql_setup-->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9c%20InsertEmployee/MySql_Setup
+[insertEmployee outputlinl]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9c%20AddEmployee.png)
+
+9d.Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘S’ through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
+[folderlink]-->
+deleteemplyoee.jspfile -->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9d%20DeleteEmployee/9d%20DeleteEmployee.jsp
+mysql_setupfile-->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9d%20DeleteEmployee/MYSQL_Setup
+[DeleteEmployee outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/9d%20Deleteandfilter.png)
