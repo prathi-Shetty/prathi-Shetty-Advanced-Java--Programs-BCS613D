@@ -52,4 +52,19 @@ directed as follows 1. Adding elements, 2. Adding element at specific index, 3. 
 
 [folderlink]-->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c_LinkedListPrograms/1c1IterateFromSecond.java
 
-[outputlink]-->
+[outputlink IterateFromSecond outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c1IterateFromSecond.png)
+
+1c2.Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
+
+[folderlink]-->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c_LinkedListPrograms/1c2%20ReverseIterate.java
+
+[outputlink ReverseIterate outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c2-ReverseIterate.png)
+
+1c3.Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))
+
+[folderlink]-->https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c_LinkedListPrograms/1c3IterarteFromEnd.java
+
+[outputlink IterateFromEnd outputlink]-->(https://github.com/prathi-Shetty/prathi-Shetty-Advanced-Java--Programs-BCS613D/blob/main/1c3-InsertAtEnd.png)
+
+
+
